@@ -1,0 +1,21 @@
+.footer{
+  /* position:absolute;
+  bottom:0;
+  left: 0; */
+  display: flex;
+  align-items:flex-end;
+  margin-top: auto;
+  min-width: 100%;
+  height: 680px;
+  background: linear-gradient(0deg, #8DE4E8 0%, #80CFDB 5.92%, #6094BB 18.37%, #2C3687 36.03%, #171C4F 75.58%, #1A0C30 100%);
+  
+}
+.footer-img-box{
+  background-image: url("../assets/footer.png");
+  height: 410px;
+  width:100%;
+  background-size: cover;
+  background-position: center;
+ 
+  
+}

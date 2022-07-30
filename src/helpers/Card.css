@@ -1,0 +1,56 @@
+.helping-cards{
+    display: flex;
+    justify-content: space-around;
+}
+.card-body{
+    background: linear-gradient(321.25deg, rgba(255, 255, 255, 0.33) 3.79%, rgba(32, 19, 67, 0.33) 92.75%);
+    clip-path: polygon(0 0, 100% 6%, 84% 98%, 17% 95%);
+    backdrop-filter: blur(10.7317px);
+    text-align: center;
+    border-radius: 29.8103px;
+    border: 2px solid#FFFFFF;
+}
+
+.card-button{
+    background: linear-gradient(321.25deg, rgba(255, 255, 255, 0.33) 3.79%, rgba(32, 19, 67, 0.33) 92.75%);
+    margin-inline: auto;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16.6938px;
+    line-height: 25px;
+    color: #FFFFFF;
+    
+    
+}
+.text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+
+    color: #FFFFFF;
+
+}
+.title{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21.4635px;
+    line-height: 32px;
+
+    color: #FFFFFF;
+
+}
+.card-help{
+    margin-top: 1em;
+    margin-inline: 1em;
+    background: linear-gradient(180deg, #BEAFE6 0%, #252349 100%);
+}
+.card:hover{
+    margin-top: 1em;
+    transform:scale(1.15);
+    z-index: 2;
+    transition: ease-in-out .3s;
+}

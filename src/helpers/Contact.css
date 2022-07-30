@@ -1,0 +1,133 @@
+.contact{
+    height: 708px;
+    width: 100%;
+    background: rgba(44, 23, 78, 0.64);
+    margin-top: 3em;
+    padding-top: 2em;
+}
+.name-wrapper{
+    width: 560px;
+    height: 50px;
+   
+}
+.text-and-image-box{
+    display: flex;
+    justify-content:space-between ;
+    background: #3A2F49;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+.name-img-box{
+    width: 90px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #483168;
+    
+    box-shadow: -4px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 0px 10px 11px 40px;
+}
+.name-img{
+    width: 30px;
+    height: 30px;
+   background-image: url("../assets/profile.png");
+   background-size: cover;
+   background-position: center;
+   opacity: 1;
+}
+#text-box{
+    background: transparent;
+    border: none;
+}
+
+#text-box:focus, textarea:focus, select:focus{
+    outline: none;
+}
+.contact-heading{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #FAFAFA;
+    text-align: center;
+}
+
+.email-wrapper{
+    width: 560px;
+    height: 50px;
+    
+}
+.contact-wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 3.5em;
+}
+.name{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    margin-bottom: 0;
+
+
+    color: #FFFFFF;
+
+}
+
+.message-wrapper{
+    margin-top: 6em;
+    width: 1000px;
+    height: 230px;
+    margin-inline: auto;
+    
+}
+.text-and-image-box-meaasge{
+    width: 1000px;
+    height: 200px;
+    background: #3A2F49;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+#text-box2{
+    width: 900px;
+    height: 200px;
+    background: transparent;
+    outline: none;
+    border: none;
+}
+
+.contact-button{
+    width: 400px;
+    height: 50px;
+
+    background: linear-gradient(99.85deg, #B434C9 4.65%, #3832CD 98.65%);
+    border-radius: 78px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+    transform: matrix(1, -0.01, 0, 1, 0, 0);
+    margin: 3em 30em; 
+}
+
+
+.name-img-box2{
+    width: 167px;
+    height: 50px;
+    background: #573486;
+    box-shadow: -4px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 0px 10px 11px 40px;
+}
