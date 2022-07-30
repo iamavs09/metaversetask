@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/metaversetask/static/css/main.c54ef0c8.css",
+    "main.js": "/metaversetask/static/js/main.7c91b1c8.js",
+    "static/js/787.82de9e9b.chunk.js": "/metaversetask/static/js/787.82de9e9b.chunk.js",
+    "static/media/video.mp4": "/metaversetask/static/media/video.fbf107f688a13331d7c3.mp4",
+    "static/media/avatar 1.png": "/metaversetask/static/media/avatar 1.c66ee9dcb452b9bd7e57.png",
+    "static/media/gg 2.png": "/metaversetask/static/media/gg 2.285b8b0cc636d0c71d3b.png",
+    "static/media/Group 11552.png": "/metaversetask/static/media/Group 11552.071bf8132ca1a636dbfe.png",
+    "static/media/civilisation.png": "/metaversetask/static/media/civilisation.5d98e242aff4a6af58ed.png",
+    "static/media/image 36.png": "/metaversetask/static/media/image 36.ab8aaea9fc06fc9e5a66.png",
+    "static/media/Group 109 (1).png": "/metaversetask/static/media/Group 109 (1).8da82df3e07d2b112636.png",
+    "static/media/footer.png": "/metaversetask/static/media/footer.cf0f3692d522183657a2.png",
+    "static/media/image5.png": "/metaversetask/static/media/image5.f45b5b4b36e0652f70a0.png",
+    "static/media/image2.png": "/metaversetask/static/media/image2.860c179c7498d14d34d4.png",
+    "static/media/image4.png": "/metaversetask/static/media/image4.a2d5b8eb4111522f2640.png",
+    "static/media/image3.png": "/metaversetask/static/media/image3.ab977dea2df20bb7f35c.png",
+    "index.html": "/metaversetask/index.html",
+    "main.c54ef0c8.css.map": "/metaversetask/static/css/main.c54ef0c8.css.map",
+    "main.7c91b1c8.js.map": "/metaversetask/static/js/main.7c91b1c8.js.map",
+    "787.82de9e9b.chunk.js.map": "/metaversetask/static/js/787.82de9e9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c54ef0c8.css",
+    "static/js/main.7c91b1c8.js"
+  ]
+}
